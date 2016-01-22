@@ -1,0 +1,32 @@
+{
+  "name": "fresh-theme-hello-world",
+  "version": "0.1.0",
+  "description": "An example 'Hello World' theme for FRESH / FRESCA résumés and CVs.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fluentdesk/fresh-theme-hello-world.git"
+  },
+  "keywords": [
+    "FRESCA"
+    "FRESH",
+    "fresh-theme",
+    "resume",
+    "CV",
+    "HackMyResume",
+    "FluentCV"
+  ],
+  "author": "hacksalot <hacksalot@indevious.com> (http://indevious.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fluentdesk/fresh-theme-hello-world/issues"
+  },
+  "main": "theme.json",
+  "homepage": "https://github.com/fluentdesk/fresh-theme-hello-world",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

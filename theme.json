@@ -1,0 +1,6 @@
+{
+  "title": "hello-world",
+  "description": "An example 'Hello World' theme for FRESH / FRESCA résumés and CVs.",
+  "author": "hacksalot <hacksalot@indevious.com> (https://github.com/hacksalot)",
+  "engine": "handlebars"
+}
